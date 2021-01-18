@@ -1,5 +1,6 @@
 // create your App component here
-import Component from React;
+
+import React, { Component } from "react";
 
 
 export default class Game extends Component {
